@@ -1,2 +1,2 @@
 Ola!
-Este documento é apenas p3r3 teste!
+Este documento é apenas para teste!
